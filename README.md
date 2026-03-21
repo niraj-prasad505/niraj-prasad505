@@ -7,15 +7,6 @@
 - 📖 My experiences: [Resume / Experience (replace with link)](REPLACE_WITH_YOUR_EXPERIENCE_LINK)  
 - ⚡ Fun fact: *I think I'm funny*
 
-
-### Connect with me
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/niraj_prasad505)  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/niraj_prasad505)  
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/niraj_prasad505)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/niraj_prasad505)  
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/niraj_prasad5)
-
-
 ### Languages & Tools
 <p align="left">
   <a href="https://www.cprogramming.com/">
