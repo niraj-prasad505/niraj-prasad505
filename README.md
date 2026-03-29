@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Niraj Prasad 👋<br>A passionate Software Engineering student from India, focused on building scalable backend systems and modern web applications.<br><br>I’m currently learning React and Data Structures & Algorithms while developing real-world projects using Node.js, Express, and MongoDB.<br><br>I enjoy solving problems, exploring new technologies, and continuously improving my development skills. My goal is to grow as a software engineer and build impactful, real-world solutions.<br>
+Hi, I'm Niraj Prasad <br>A passionate Software Engineering student from India, focused on building scalable backend systems and modern web applications.<br><br>I’m currently learning React and Data Structures & Algorithms while developing real-world projects using Node.js, Express, and MongoDB.<br><br>I enjoy solving problems, exploring new technologies, and continuously improving my development skills. My goal is to grow as a software engineer and build impactful, real-world solutions.<br>
 
 
 ## 🌐 Socials:
