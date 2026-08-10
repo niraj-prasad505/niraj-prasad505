@@ -225,22 +225,35 @@ Become a highly capable Software Engineer with strong foundations in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niraj-prasad505&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-prasad505&hide_border=true" alt="GitHub Streak"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=niraj-prasad505&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com/?user=niraj-prasad505&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niraj-prasad505&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=niraj-prasad505&theme=darkhub&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
