@@ -5,64 +5,31 @@ BCA Student · Aspiring Software Engineer · Full-Stack Developer
 </h3>
 
 <p align="center">
-  <em>
-    Building real-world applications while strengthening my DSA, backend engineering, and software development fundamentals.
-  </em>
+  <em>Building real-world applications while strengthening DSA and backend engineering skills.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA-5th%20Semester-blue?style=flat-square" alt="BCA 5th Semester"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-informational?style=flat-square" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Location-India-success?style=flat-square" alt="India"/>
+  <img src="https://img.shields.io/badge/BCA-5th%20Semester-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React-06B6D4?style=flat-square" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **BCA student** focused on becoming a strong **Software Engineer**.
+I'm a **BCA student** focused on becoming a strong Software Engineer.
 
-I enjoy building real-world applications, solving programming problems, and understanding how software systems work behind the scenes.
-
-* 🎯 Currently focusing on **DSA, Java, and Spring Boot**
-* 🌐 Building full-stack applications with **React**
-* 🏗️ Interested in **backend engineering, APIs, databases, and scalable systems**
-* 🤖 Exploring **AI/ML** as a long-term direction
-* 🎨 Passionate about **hyper-realistic art, 3D, and creative frontend experiences**
-* 📚 Actively solving problems on **LeetCode**
-* 🚀 Long-term goal: become a strong Software Engineer and target companies like **Google, Microsoft, Amazon**, and other major technology companies
+- 🎯 Learning **DSA, Java & Spring Boot**
+- 🌐 Building full-stack applications with **React**
+- 🏗️ Interested in **backend engineering, APIs & databases**
+- 🤖 Exploring **AI/ML** for the long term
+- 🎨 Passionate about **hyper-realistic art, 3D & creative frontend**
+- 📚 Solving problems on **LeetCode**
+- 🚀 Aspiring to work at companies like **Google, Microsoft & Amazon**
 
 > **Learn → Build → Break → Debug → Understand → Improve**
-
----
-
-## 🚀 Current Focus
-
-```text
-DSA (C++)
-      ↓
-Java
-      ↓
-Spring Boot
-      ↓
-Backend Engineering
-      ↓
-Full-Stack Development
-      ↓
-AI / ML
-```
-
-My current priority is not just learning frameworks, but understanding **how real-world software is designed, built, tested, and maintained**.
-
-| Priority | Area                               |
-| -------- | ---------------------------------- |
-| 01       | Data Structures & Algorithms       |
-| 02       | Java & Object-Oriented Programming |
-| 03       | Spring Boot & Backend Development  |
-| 04       | Full-Stack Development             |
-| 05       | Databases & REST APIs              |
-| 06       | AI / Spring AI                     |
-| 07       | Modern & Interactive Frontend      |
 
 ---
 
@@ -119,41 +86,30 @@ My current priority is not just learning frameworks, but understanding **how rea
 
 ## 🏍️ Featured Project — MotoCartel
 
-### Full-Stack Motorcycle Accessories E-Commerce Platform
+**Full-stack motorcycle accessories e-commerce platform**
 
-**MotoCartel** is a full-stack e-commerce application for motorcycle accessories, built to practice real-world application architecture and backend development.
+**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
-**Tech Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
+### Key Features
 
-### ✨ Features
+- 🛒 Products, categories, brands & collections
+- 🔎 Search, filtering, sorting & pagination
+- 🔐 JWT authentication + secure cookies
+- 📧 Email OTP verification
+- 👥 Role-based access control
+- ❤️ Wishlist & shopping cart
+- 🔌 REST API architecture
+- 🗄️ MongoDB data modeling
 
-* 🛒 Product listing, categories, brands, collections and product management
-* 🔎 Product search, filtering, sorting and pagination
-* 🔐 JWT authentication with secure cookies
-* 📧 Email OTP verification
-* 👥 Role-based access control
-* ❤️ Wishlist functionality
-* 🛍️ Shopping cart and quantity management
-* 🗄️ MongoDB data modeling and relationships
-* 🔌 RESTful API architecture
-* ⚠️ Error handling and backend validation
-
-### 🧠 Engineering Concepts
-
-`REST API` · `Authentication` · `Authorization` · `Database Modeling` · `API Design` · `State Management` · `Component Architecture` · `Secure Cookies` · `Error Handling` · `Full-Stack Debugging`
+**Concepts:** `REST APIs` · `Authentication` · `Authorization` · `Database Modeling` · `State Management` · `Component Architecture`
 
 ---
 
 ## 📚 Data Structures & Algorithms
 
-I'm actively solving **Data Structures & Algorithms problems using C++** on LeetCode, focusing on understanding patterns and improving problem-solving skills.
+Currently solving **DSA problems using C++** on LeetCode, focusing on patterns and problem-solving rather than just numbers.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-60%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 60+"/>
-  <img src="https://img.shields.io/badge/Goal-300%2B%20Problems-blueviolet?style=for-the-badge" alt="300+ Goal"/>
-</p>
-
-## 🚀 LeetCode Stats
+### 🚀 LeetCode Stats
 
 <p align="center">
   <img
@@ -162,63 +118,31 @@ I'm actively solving **Data Structures & Algorithms problems using C++** on Leet
   />
 </p>
 
-### Topics Practiced
+**Topics:**  
+`Arrays` · `Strings` · `Hashing` · `Sorting` · `Binary Search` · `Two Pointers` · `Sliding Window` · `Stack` · `Queue` · `Linked List` · `Recursion` · `Trees`
 
-`Arrays` · `Strings` · `Hashing` · `Sorting` · `Searching` · `Binary Search` · `Two Pointers` · `Sliding Window` · `Stack` · `Queue` · `Deque` · `Linked List` · `Recursion` · `Trees`
-
-My LeetCode solutions are also synced to GitHub using **LeetHub**.
-
+Solutions are synced to GitHub using **LeetHub**.
 
 ---
 
-## 🎨 Creative & Frontend Interests
+## 🎨 Creative Interests
 
-Alongside backend development, I enjoy creating visually polished interfaces.
+I enjoy building visually polished interfaces and experimenting with:
 
-I'm interested in:
+`Modern UI` · `Framer Motion` · `Lenis` · `WebGL` · `3D` · `Interactive Experiences`
 
-`Modern UI` · `Framer Motion` · `Lenis` · `WebGL` · `3D Elements` · `Interactive Experiences`
-
-I also enjoy **hyper-realistic drawing and art**, which influences the way I think about visual design and user experience.
+Outside programming, I enjoy **hyper-realistic drawing and art**, which influences my approach to visual design.
 
 ---
 
-## 🤖 Looking Ahead
+## 🎯 Current Goals
 
-My long-term direction is:
-
-```text
-Strong Programming Fundamentals
-            ↓
-Software Engineering
-            ↓
-Backend Engineering
-            ↓
-System Design
-            ↓
-AI / Machine Learning
-```
-
-I'm particularly interested in exploring **Spring AI** as I move toward AI-powered backend applications.
-
----
-
-## 🎯 Goals
-
-### Short-Term
-
-* [ ] Solve **300+ LeetCode problems**
-* [ ] Become strong in **Java & Spring Boot**
-* [ ] Build production-style full-stack projects
-* [ ] Gain internship experience
-* [ ] Improve backend and system design skills
-* [ ] Build a strong developer portfolio
-
-### Long-Term
-
-Become a highly capable Software Engineer with strong foundations in:
-
-`DSA` · `Backend Engineering` · `Full-Stack Development` · `System Design` · `Databases` · `AI/ML`
+- 🔹 Solve **300+ LeetCode problems**
+- 🔹 Become strong in **Java & Spring Boot**
+- 🔹 Build production-style full-stack projects
+- 🔹 Gain internship experience
+- 🔹 Learn backend architecture & system design
+- 🔹 Explore **AI/ML & Spring AI**
 
 ---
 
@@ -226,57 +150,59 @@ Become a highly capable Software Engineer with strong foundations in:
 
 <div align="center">
 
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=niraj-prasad505&theme=dark"
-    alt="GitHub Stats"
-  />
+<img
+  height="165"
+  src="https://github-stats-extended.vercel.app/api?username=niraj-prasad505&theme=dark"
+  alt="GitHub Stats"
+/>
 
-  <img
-    height="165"
-    src="https://streak-stats.demolab.com/?user=niraj-prasad505&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img
+  height="165"
+  src="https://streak-stats.demolab.com/?user=niraj-prasad505&theme=dark&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 <div align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&theme=dark"
-    alt="Top Languages"
-  />
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&theme=dark"
+  alt="Top Languages"
+/>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=niraj-prasad505&theme=darkhub&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://trophy.ryglcloud.net/?username=niraj-prasad505&theme=darkhub&no-frame=true&margin-w=10"
+  alt="GitHub Trophies"
+/>
+
+</div>
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/niraj-prasad505">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/niraj-prasad-6422962b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+<a href="https://github.com/niraj-prasad505">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niraj-prasad-6422962b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
   <em>“Learn → Build → Break → Debug → Understand → Improve.”</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niraj-prasad505&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
