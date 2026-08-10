@@ -224,7 +224,7 @@ Become a highly capable Software Engineer with strong foundations in:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api?username=niraj-prasad505&theme=dark"
@@ -238,7 +238,7 @@ Become a highly capable Software Engineer with strong foundations in:
   />
 </p>
 
-<p align="center">
+<p>
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&theme=dark"
     alt="Top Languages"
