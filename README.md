@@ -153,7 +153,14 @@ I'm actively solving **Data Structures & Algorithms problems using C++** on Leet
   <img src="https://img.shields.io/badge/Goal-300%2B%20Problems-blueviolet?style=for-the-badge" alt="300+ Goal"/>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/niraj_prasad5?theme=dark&font=baloo&ext=contest)
+## 🚀 LeetCode Stats
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/niraj_prasad5?theme=dark&font=baloo&ext=contest"
+    alt="LeetCode Stats"
+  />
+</p>
 
 ### Topics Practiced
 
