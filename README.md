@@ -146,18 +146,23 @@ My current priority is not just learning frameworks, but understanding **how rea
 
 ## 📚 Data Structures & Algorithms
 
-I'm actively solving **Data Structures & Algorithms problems using C++**, with a focus on understanding patterns rather than simply increasing the problem count.
+I'm actively solving **Data Structures & Algorithms problems using C++** on LeetCode, focusing on understanding patterns and improving problem-solving skills.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LeetCode-60%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 60+"/>
   <img src="https://img.shields.io/badge/Goal-300%2B%20Problems-blueviolet?style=for-the-badge" alt="300+ Goal"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nirajprasad?theme=light&font=baloo&ext=heatmap" alt="Niraj's LeetCode Stats"/>
 </p>
 
 ### Topics Practiced
 
 `Arrays` · `Strings` · `Hashing` · `Sorting` · `Searching` · `Binary Search` · `Two Pointers` · `Sliding Window` · `Stack` · `Queue` · `Deque` · `Linked List` · `Recursion` · `Trees`
 
-My solutions are also maintained on GitHub using **LeetHub**.
+My LeetCode solutions are also synced to GitHub using **LeetHub**.
+
 
 ---
 
