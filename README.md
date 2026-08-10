@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Niraj Prasad 👋</h1>
 
-<h3 align="center">BCA Student · Aspiring Software Engineer · Full-Stack Developer</h3>
+<h3 align="center">
+BCA Student · Aspiring Software Engineer · Full-Stack Developer
+</h3>
 
 <p align="center">
-  <em>Focused on DSA, Java backend development, and building real-world applications</em>
+  <em>
+    Building real-world applications while strengthening my DSA, backend engineering, and software development fundamentals.
+  </em>
 </p>
 
 <p align="center">
@@ -14,190 +18,238 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **BCA student** working toward becoming a strong **Software Engineer**, with a long-term goal of targeting companies like **Google, Microsoft, Amazon**, and other major tech companies.
+I'm a **BCA student** focused on becoming a strong **Software Engineer**.
 
-- 🎯 Currently deepening my skills in **Data Structures & Algorithms**, **Java**, and **Spring Boot**
-- 🌐 Building full-stack applications with **React** on the frontend
-- 🤖 Exploring **Artificial Intelligence / Machine Learning** as a long-term direction
-- 🎨 Also passionate about **hyper-realistic art & drawing**, which shapes my eye for polished, visual frontend design
-- 📈 My approach: **Learn → Build → Break → Debug → Understand → Improve**
+I enjoy building real-world applications, solving programming problems, and understanding how software systems work behind the scenes.
+
+* 🎯 Currently focusing on **DSA, Java, and Spring Boot**
+* 🌐 Building full-stack applications with **React**
+* 🏗️ Interested in **backend engineering, APIs, databases, and scalable systems**
+* 🤖 Exploring **AI/ML** as a long-term direction
+* 🎨 Passionate about **hyper-realistic art, 3D, and creative frontend experiences**
+* 📚 Actively solving problems on **LeetCode**
+* 🚀 Long-term goal: become a strong Software Engineer and target companies like **Google, Microsoft, Amazon**, and other major technology companies
+
+> **Learn → Build → Break → Debug → Understand → Improve**
 
 ---
 
-### 🚀 Current Focus
+## 🚀 Current Focus
 
 ```text
-DSA (C++)  →  Java  →  Spring Boot  →  Full-Stack Projects  →  AI/ML
+DSA (C++)
+      ↓
+Java
+      ↓
+Spring Boot
+      ↓
+Backend Engineering
+      ↓
+Full-Stack Development
+      ↓
+AI / ML
 ```
 
-I'm not just learning technologies — I'm trying to understand how real-world software systems are **designed, implemented, and maintained**.
+My current priority is not just learning frameworks, but understanding **how real-world software is designed, built, tested, and maintained**.
 
-| Priority | Area |
-|----------|------|
-| 1 | Data Structures & Algorithms (LeetCode) |
-| 2 | Java fundamentals & backend development |
-| 3 | Spring Boot (professional backend development) |
-| 4 | Full-Stack Development (React + Java) |
-| 5 | AI / Exploring Spring AI |
-| 6 | Developer Portfolio (modern & interactive UI) |
-
-> A significant portion of my current learning time is dedicated to DSA and backend development (Java + Spring Boot).
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**Tools & Others**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-25D366?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+| Priority | Area                               |
+| -------- | ---------------------------------- |
+| 01       | Data Structures & Algorithms       |
+| 02       | Java & Object-Oriented Programming |
+| 03       | Spring Boot & Backend Development  |
+| 04       | Full-Stack Development             |
+| 05       | Databases & REST APIs              |
+| 06       | AI / Spring AI                     |
+| 07       | Modern & Interactive Frontend      |
 
 ---
 
-### 🏍️ Featured Project — MotoCartel
+## 🛠️ Tech Stack
 
-**Full-stack motorcycle accessories e-commerce application**
-
-Built end-to-end using **React.js, Node.js, Express.js, MongoDB, and Tailwind CSS**, with a strong focus on real-world engineering practices.
-
-**Key Features:**
-- 🛒 Product management, listing, filtering, sorting, categories, brands & collections
-- 🔐 Authentication via **JWT**, **cookies**, and **Email OTP verification**
-- 👥 Role-based access control
-- 📄 Pagination and product search/filter architecture
-- ❤️ Shopping cart & wishlist functionality
-
-**Engineering Concepts Practiced:**
-`REST API Architecture` · `Authentication & Authorization` · `Database Modeling` · `Component Architecture` · `State Management` · `Secure Cookie Handling` · `Error Handling` · `Full-Stack Debugging`
-
-**Backend:** Express routers, controllers, services, MongoDB models, OTP generation & hashing, email delivery, database relationships
-
-**Frontend:** React components, Context API, product grids/cards, filter sidebar, cart & wishlist UI, Framer Motion animations
-
----
-
-### 📊 Data Structures & Algorithms
-
-Actively solving problems on **LeetCode**, primarily using **C++**.
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/LeetCode-60%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Goal-300%2B%20Problems-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-**Topics Practiced:** Arrays · Strings · Hashing · Sorting · Searching · Binary Search · Two Pointers · Sliding Window · Stack · Queue · Circular Queue · Deque · Linked List · Recursion · Trees
+### Frontend
 
-LeetCode solutions are automatically synced to GitHub using **LeetHub** — the goal is understanding patterns and problem-solving concepts, not just accumulating a count.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
 
 ---
 
-### 🌐 Frontend & Creative Interests
+## 🏍️ Featured Project — MotoCartel
 
-I enjoy building visually polished interfaces and experimenting with:
+### Full-Stack Motorcycle Accessories E-Commerce Platform
 
-`Modern UI` · `Animations (Framer Motion)` · `Smooth Scrolling (Lenis)` · `WebGL` · `3D Elements` · `Interactive Experiences`
+**MotoCartel** is a full-stack e-commerce application for motorcycle accessories, built to practice real-world application architecture and backend development.
 
-Outside of code, I'm also into **hyper-realistic art and drawing** — a creative interest that directly influences how I approach visual design in software.
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
+
+### ✨ Features
+
+* 🛒 Product listing, categories, brands, collections and product management
+* 🔎 Product search, filtering, sorting and pagination
+* 🔐 JWT authentication with secure cookies
+* 📧 Email OTP verification
+* 👥 Role-based access control
+* ❤️ Wishlist functionality
+* 🛍️ Shopping cart and quantity management
+* 🗄️ MongoDB data modeling and relationships
+* 🔌 RESTful API architecture
+* ⚠️ Error handling and backend validation
+
+### 🧠 Engineering Concepts
+
+`REST API` · `Authentication` · `Authorization` · `Database Modeling` · `API Design` · `State Management` · `Component Architecture` · `Secure Cookies` · `Error Handling` · `Full-Stack Debugging`
 
 ---
 
-### 🤖 Looking Ahead: AI/ML
+## 📚 Data Structures & Algorithms
 
-My long-term learning path:
+I'm actively solving **Data Structures & Algorithms problems using C++**, with a focus on understanding patterns rather than simply increasing the problem count.
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-60%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 60+"/>
+  <img src="https://img.shields.io/badge/Goal-300%2B%20Problems-blueviolet?style=for-the-badge" alt="300+ Goal"/>
+</p>
+
+### Topics Practiced
+
+`Arrays` · `Strings` · `Hashing` · `Sorting` · `Searching` · `Binary Search` · `Two Pointers` · `Sliding Window` · `Stack` · `Queue` · `Deque` · `Linked List` · `Recursion` · `Trees`
+
+My solutions are also maintained on GitHub using **LeetHub**.
+
+---
+
+## 🎨 Creative & Frontend Interests
+
+Alongside backend development, I enjoy creating visually polished interfaces.
+
+I'm interested in:
+
+`Modern UI` · `Framer Motion` · `Lenis` · `WebGL` · `3D Elements` · `Interactive Experiences`
+
+I also enjoy **hyper-realistic drawing and art**, which influences the way I think about visual design and user experience.
+
+---
+
+## 🤖 Looking Ahead
+
+My long-term direction is:
 
 ```text
-Software Engineering → Strong Programming Fundamentals → Backend → AI/ML
+Strong Programming Fundamentals
+            ↓
+Software Engineering
+            ↓
+Backend Engineering
+            ↓
+System Design
+            ↓
+AI / Machine Learning
 ```
 
-I'm particularly interested in exploring **Spring AI** as a bridge between my backend development work and future AI/ML learning.
+I'm particularly interested in exploring **Spring AI** as I move toward AI-powered backend applications.
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 
-**Short-Term**
-- Solve 300+ LeetCode problems
-- Build strong proficiency in Java & Spring Boot
-- Build strong full-stack projects
-- Complete internships
-- Grow GitHub & LinkedIn presence
+### Short-Term
 
-**Long-Term**
-- Become a highly capable Software Engineer with strong foundations in DSA, backend engineering, full-stack development, system design, and AI/ML
-- Target companies: **Google · Microsoft · Amazon** and other major technology companies
+* [ ] Solve **300+ LeetCode problems**
+* [ ] Become strong in **Java & Spring Boot**
+* [ ] Build production-style full-stack projects
+* [ ] Gain internship experience
+* [ ] Improve backend and system design skills
+* [ ] Build a strong developer portfolio
+
+### Long-Term
+
+Become a highly capable Software Engineer with strong foundations in:
+
+`DSA` · `Backend Engineering` · `Full-Stack Development` · `System Design` · `Databases` · `AI/ML`
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niraj-prasad505&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-prasad505&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
-
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these stat cards.
 
 ---
 
-### 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-> 📌 *Add your Email, LinkedIn, Portfolio, and X/Twitter links here once available.*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niraj-prasad505&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/niraj-prasad505">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/niraj-prasad-6422962b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <em>"Learn → Build → Break → Debug → Understand → Improve."</em>
+  <em>“Learn → Build → Break → Debug → Understand → Improve.”</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=niraj-prasad505&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
