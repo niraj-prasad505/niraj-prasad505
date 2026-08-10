@@ -224,7 +224,8 @@ Become a highly capable Software Engineer with strong foundations in:
 
 ## 📊 GitHub Stats
 
-<p  align="center">
+<div align="center">
+
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api?username=niraj-prasad505&theme=dark"
@@ -232,19 +233,21 @@ Become a highly capable Software Engineer with strong foundations in:
   />
 
   <img
-    align="center"
     height="165"
     src="https://streak-stats.demolab.com/?user=niraj-prasad505&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
 
-<p  align="center">
+</div>
+
+<div align="center">
+
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=niraj-prasad505&layout=compact&theme=dark"
     alt="Top Languages"
   />
-</p>
+
+</div>
 ---
 
 ## 🏆 GitHub Trophies
