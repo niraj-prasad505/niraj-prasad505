@@ -105,6 +105,26 @@ I'm a **BCA student** focused on becoming a strong Software Engineer.
 
 ---
 
+---
+
+### Internship Experience
+
+<p align>
+  <strong>Ardent Computech Pvt Ltd</strong><br>
+  <em>MERN Stack Intern · 4 Weeks</em>
+</p>
+
+<p align>
+  <img src="https://img.shields.io/badge/Internship-MERN%20Stack-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Duration-4%20Weeks-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Company-Ardent%20Computech%20Pvt%20Ltd-F59E0B?style=flat-square" />
+</p>
+
+---
+
+
+---
+
 ## 📚 Data Structures & Algorithms
 
 Currently solving **DSA problems using C++** on LeetCode, focusing on patterns and problem-solving rather than just numbers.
