@@ -25,7 +25,7 @@ I'm a **BCA student** focused on becoming a strong Software Engineer.
 - 🌐 Building full-stack applications with **React**
 - 🏗️ Interested in **backend engineering, APIs & databases**
 - 🤖 Exploring **AI/ML** for the long term
-- 🎨 Passionate about **hyper-realistic art, 3D & creative frontend**
+- 🎨 Passionate about **hyper-realistic art**
 - 📚 Solving problems on **LeetCode**
 - 🚀 Aspiring to work at companies like **Google, Microsoft & Amazon**
 
